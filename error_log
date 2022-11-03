@@ -1,0 +1,223 @@
+[04-Sep-2022 10:29:48 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:29:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:29:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:29:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:29:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:29:52 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:31:03 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[04-Sep-2022 10:31:09 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/livesoft/balticrail_backend/vendor/symfony/string/Resources/functions.php on line 34
+[05-Sep-2022 10:28:55 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/appswebdevelopme/public_html/eduportal/vendor/symfony/string/Resources/functions.php on line 34
+[05-Sep-2022 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 10:42:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 10:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 10:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 11:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 11:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 11:53:07 UTC] PHP Warning:  require(/home/appswebdevelopme/public_html/eduportal/vendor/composer/../symfony/string/Resources/functions.php): failed to open stream: No such file or directory in /home/appswebdevelopme/public_html/eduportal/vendor/composer/autoload_real.php on line 69
+[05-Sep-2022 11:53:07 UTC] PHP Fatal error:  require(): Failed opening required '/home/appswebdevelopme/public_html/eduportal/vendor/composer/../symfony/string/Resources/functions.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/appswebdevelopme/public_html/eduportal/vendor/composer/autoload_real.php on line 69
+[05-Sep-2022 11:53:25 UTC] PHP Warning:  require(/home/appswebdevelopme/public_html/eduportal/vendor/composer/../symfony/string/Resources/functions.php): failed to open stream: No such file or directory in /home/appswebdevelopme/public_html/eduportal/vendor/composer/autoload_real.php on line 69
+[05-Sep-2022 11:53:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/appswebdevelopme/public_html/eduportal/vendor/composer/../symfony/string/Resources/functions.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/appswebdevelopme/public_html/eduportal/vendor/composer/autoload_real.php on line 69
+[05-Sep-2022 12:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:22:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/appswebdevelopme/public_html/eduportal/vendor in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Error))
+#4 /home/appswebdevelopme/public_html/eduportal/vendor in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:58:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:59:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(ParseError))
+#4 /home/appswebdevelopme/public_html/eduportal/v in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
+[05-Sep-2022 12:59:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Illuminate\Support\Collection::getArrayableItems() in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php:31
+Stack trace:
+#0 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/helpers.php(15): Illuminate\Support\Collection->__construct(Array)
+#1 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Support/Traits/ReflectsClosures.php(49): collect(Array)
+#2 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/ReportableHandler.php(62): Illuminate\Foundation\Exceptions\ReportableHandler->firstClosureParameterTypes(Object(Closure))
+#3 /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(234): Illuminate\Foundation\Exceptions\ReportableHandler->handles(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#4 /home/app in /home/appswebdevelopme/public_html/eduportal/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 31
